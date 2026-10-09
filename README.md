@@ -2,7 +2,7 @@
 
 2026–2027 学年个人学习归档 · Simson。
 
-当前资料为课堂笔记及其 PDF，涵盖环境伦理学的发展、环境现状和环境问题。按已有内容整理，后续资料可继续放入相应分类。
+当前资料包括课堂笔记、笔记 PDF 和三份环境伦理学参考文献，涵盖环境伦理学的发展、环境现状、生态学四定律和伦理学基础。按已有内容整理，后续资料可继续放入相应分类。
 
 GitHub 公开仓库：[PKU-Environmental-Ethics-2026](https://github.com/WangMiao-577/PKU-Environmental-Ethics-2026)。每个课程目录有自己的独立 Git 历史。
 
@@ -14,7 +14,9 @@ GitHub 公开仓库：[PKU-Environmental-Ethics-2026](https://github.com/WangMia
 
 ## 目录
 
-- `Notes/`：课堂笔记、主 LaTeX 文件、章节源码、插图与已有 PDF。
+- `Notes/`：课堂笔记、主 LaTeX 文件与已有 PDF。
+- `References/`：林恩·怀特与加勒特·哈丁的参考文献。
+- `Archives/Build/`：本地保留的编译中间文件。
 
 ## 本地编译
 
